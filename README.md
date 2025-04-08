@@ -1,34 +1,46 @@
-## Hi there 👋 I'm Dika Hadi Permana!
-
-Welcome to my GitHub profile — a space where I explore code, collaborate on cool projects, and constantly learn new things 🚀
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m a student and work in personal side projects.
-- 🌱 I’m currently learning Laravel, flutter, and react.
-- 💡 Passionate about building things that solve real-world problems.
-- 💬 Ask me about: `Web Development`, `Open Source`, `Backend`, `Linux`, or anything tech!
+<h1 align="center">Hi there 👋, I'm Dika Hadi Permana!</h1>
+<p align="center">
+  <em>A passionate learner, student, and aspiring full-stack developer 🚀</em>
+</p>
 
 ---
 
-### 🤝 Let's Connect
-- 📫 Reach me via email: `dikahadip4@gmail.com`
-- 🌐 Visit my portfolio: (https://dikahadipermana.ct.ws)
-- 💼 LinkedIn: (https://www.linkedin.com/in/dika-hadi-permana-75b9a3299)
+## 👨‍💻 About Me
+
+- 🎓 I'm a student working on side projects to sharpen my skills.
+- 🌱 Currently diving into **Laravel**, **Flutter**, and **React**.
+- 🛠️ I love building things that solve real-world problems.
+- 💬 Ask me about: `Web Development`, `Open Source`, `Backend`, `Linux`, or anything tech-related!
+- 🧠 Always learning, always exploring.
 
 ---
 
-### 📈 GitHub Stats
+## 🌐 Connect with Me
 
-![Albedoes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albedoes&show_icons=true&theme=tokyonight&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albedoes&layout=compact&theme=tokyonight)
-
----
-
-### ⚡ Fun Fact
-I’m probably debugging a bug that turned out to be a missing semicolon. 😄
+<p align="left">
+  📧 Email: <a href="mailto:dikahadip4@gmail.com">dikahadip4@gmail.com</a><br>
+  🌍 Portfolio: <a href="https://dikahadipermana.ct.ws" target="_blank">dikahadipermana.ct.ws</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/dika-hadi-permana-75b9a3299/" target="_blank">dika-hadi-permana</a>
+</p>
 
 ---
 
-_Thanks for stopping by! Don't forget to ⭐ your favorite projects and keep building amazing stuff!_
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albedoes&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedoes&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I’m probably debugging a bug that turned out to be a missing semicolon 😅
+
+---
+
+<p align="center">
+  Thanks for stopping by! 🌟<br/>
+  Keep coding and keep creating amazing things 💻✨
+</p>

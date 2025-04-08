@@ -1,7 +1,6 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#00BFFF;">Dika Hadi Permana</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;Student+%7C+Web+Dev+%7C+Flutter+Lover.;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🚀 A passionate student & developer — always exploring and building cool stuff!<br>
@@ -82,14 +81,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albedoes&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-## ✨ Typing Vibe
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;Student+%7C+Web+Dev+%7C+Flutter+Lover.;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
 </p>
 
 ---

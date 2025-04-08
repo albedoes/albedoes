@@ -4,7 +4,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=albedoes&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/albedoes?pet-id=697347738725345075"
-    width="600"
+    width="900"
     height="140"
   />
 </p>

@@ -56,18 +56,6 @@
 
 ---
 
-## 📦 My Projects
-
-Here are a few projects I've worked on recently:
-
-- 🔗 [**My Portfolio Website**](https://dikahadipermana.ct.ws) — built with HTML, CSS, and a splash of magic  
-- 📱 **Flutter News App** — modern UI with clean card layouts and API integration  
-- 🖥️ **To-Do List Web App** — powered by Laravel, Bootstrap, and sweet backend logic
-
-> 🌟 More projects coming soon! Stay tuned.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

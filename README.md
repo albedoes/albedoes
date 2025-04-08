@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ngoding Dulu, Jagonya Belakangan!</h1>
+<h1 align="center">👋 Hi there, i'm Dika Hadi Permana!</h1>
 
 <p align="center">
   <img src="https://render.gitanimals.org/lines/albedoes?pet-id=657051833278790750" width="600" height="120" />

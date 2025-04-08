@@ -4,30 +4,71 @@
 </h1>
 
 <p align="center">
-  🚀 A passionate learner, student, and aspiring full-stack developer<br>
-  💻 Always exploring new tech and ideas to solve real-world problems
+  🚀 A passionate student & developer — always exploring and building cool stuff!<br>
+  💡 Interested in full-stack dev, open-source, and crafting clean UI/UX.
+</p>
+
+<p align="center">
+  <a href="https://github.com/albedoes">
+    <img src="https://komarev.com/ghpvc/?username=albedoes&label=Profile%20views&color=0e75b6&style=flat" alt="albedoes" />
+  </a>
+  <a href="https://github.com/albedoes?tab=followers">
+    <img src="https://img.shields.io/github/followers/albedoes?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently Learning: **Laravel**, **Flutter**, **React**
-- 🛠️ Interests: **Web Development**, **Backend**, **Linux**, **UI/UX**
+- 🔭 I’m currently working on personal and academic projects
+- 🌱 Currently learning: **Laravel**, **Flutter**, **React**
 - 💬 Ask me about: `Web Dev`, `Open Source`, `Backend`, `Linux`
-- 🎯 Goal: Build products that create impact and solve real-life challenges
+- 🎯 Goal: Solve real-world problems through code
+- ⚡ Fun fact: I once spent hours debugging… because of a missing semicolon 😅
 
 ---
 
-## 📬 Contact Me
+## 🌐 Find Me On
 
-- 📧 Email: [dikahadip4@gmail.com](mailto:dikahadip4@gmail.com)  
-- 🌐 Portfolio: [dikahadipermana.ct.ws](https://dikahadipermana.ct.ws)  
-- 💼 LinkedIn: [linkedin.com/in/dika-hadi-permana](https://www.linkedin.com/in/dika-hadi-permana-75b9a3299)
+<p align="left">
+  📧 Email: <a href="mailto:dikahadip4@gmail.com">dikahadip4@gmail.com</a><br>
+  🌍 Portfolio: <a href="https://dikahadipermana.ct.ws" target="_blank">dikahadipermana.ct.ws</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/dika-hadi-permana-75b9a3299" target="_blank">linkedin.com/in/dika-hadi-permana</a><br>
+  🐙 GitHub: <a href="https://github.com/albedoes" target="_blank">github.com/albedoes</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📦 My Projects
+
+Here are a few projects I've worked on recently:
+
+- 🔗 [**My Portfolio Website**](https://dikahadipermana.ct.ws) — built with HTML, CSS, and a splash of magic  
+- 📱 **Flutter News App** — modern UI with clean card layouts and API integration  
+- 🖥️ **To-Do List Web App** — powered by Laravel, Bootstrap, and sweet backend logic
+
+> 🌟 More projects coming soon! Stay tuned.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,13 +98,15 @@
 
 ---
 
-## ⚡ Fun Fact
+## ✨ Typing Vibe
 
-> I once spent hours debugging, only to find out the problem was... a missing semicolon 😅
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;Student+%7C+Web+Dev+%7C+Flutter+Lover.;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
 <p align="center">
-  🌟 Thanks for visiting! Keep learning, building, and growing 🌱<br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+💻;See+you+around+👋" alt="Typing SVG" />
+  🌟 Thanks for visiting! Don’t forget to ⭐ your favorite projects.<br/>
+  <i>Keep learning, keep building, and keep dreaming big!</i>
 </p>

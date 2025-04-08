@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'am Dika Hadi Permana!</h1>
+<h1 align="center">👋Hi there, I'm Dika Hadi Permana!</h1>
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=albedoes&utm_content=farm">

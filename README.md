@@ -77,14 +77,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albedoes&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   🌟 Thanks for visiting! Don’t forget to ⭐ your favorite projects.<br/>
   <i>Keep learning, keep building, and keep dreaming big!</i>

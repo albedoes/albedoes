@@ -1,75 +1,60 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;%7C+Student+%7C+Web+Dev+%7C;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
-</p>
+<h1 align="center">👋 Ngoding Dulu, Jagonya Belakangan!</h1>
 
 <p align="center">
-  🚀 A passionate student & developer — always exploring and building cool stuff!<br>
-  💡 Interested in full-stack dev, open-source, and crafting clean UI/UX.
+  <img src="https://github-readme-stats.vercel.app/api?username=albedoes&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&custom_title=Contributions&hide=prs" width="200"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/albedoes">
-    <img src="https://komarev.com/ghpvc/?username=albedoes&label=Profile%20views&color=0e75b6&style=flat" alt="albedoes" />
-  </a>
-  <a href="https://github.com/albedoes?tab=followers">
-    <img src="https://img.shields.io/github/followers/albedoes?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albedoes&theme=tokyonight" width="100%"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on personal and academic projects
-- 🌱 Currently learning: **Laravel**, **Flutter**, **React**
-- 💬 Ask me about: `Web Dev`, `Open Source`, `Backend`, `Linux`
-- 🎯 Goal: Solve real-world problems through code
-- ⚡ Fun fact: I once spent hours debugging… because of a missing semicolon 😅
-
----
-
-## 🌐 Find Me On
-
-<p align="left">
-  📧 Email: <a href="mailto:dikahadip4@gmail.com">dikahadip4@gmail.com</a><br>
-  🌍 Portfolio: <a href="https://dikahadipermana.ct.ws" target="_blank">dikahadipermana.ct.ws</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/dika-hadi-permana-75b9a3299" target="_blank">linkedin.com/in/dika-hadi-permana</a><br>
-  🐙 GitHub: <a href="https://github.com/albedoes" target="_blank">github.com/albedoes</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albedoes&theme=discord&no-frame=true&margin-w=10&row=1" />
 </p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=albedoes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albedoes&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=albedoes&theme=tokyonight&hide_border=true&border_radius=12" width="96%" />
-
-</div>
 
 ---
 
 <p align="center">
-  🌟 Thanks for visiting! Don’t forget to ⭐ your favorite projects.<br/>
-  <i>Keep learning, keep building, and keep dreaming big!</i>
+  <img src="https://img.shields.io/badge/FOLLOWERS-3.9kpt-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/STARS-1.2kpt-orange?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/PULL REQUESTS-390pt-blueviolet?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/REPOS-82pt-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-23pt-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/REVIEWS-0pt-lightgrey?style=for-the-badge&logo=gitbook" />
 </p>
+
+---
+
+<p align="center">
+  <strong>Engineer 🚀 | Content Creator 🎮 | Tech Enthusiast 💡</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-blue?style=for-the-badge&logo=espressif" />
+  <img src="https://img.shields.io/badge/FREERTOS-darkblue?style=for-the-badge&logo=freertos" />
+  <img src="https://img.shields.io/badge/RASPBERRY PI-c14438?style=for-the-badge&logo=raspberrypi" />
+  <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 🤖 About Me
+
+- 🎓 I'm Dika Hadi Permana — student, developer, and curious creator!
+- 🔭 Working on Laravel, Flutter, and small automation tools
+- 🧠 Learning: Open Source, React, DevOps, Clean Architecture
+- 🎨 Love design, UI/UX and smooth animations
+- 📫 Contact me at: dikahadip4@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albedoes&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">🔥 Keep hacking, keep creating, keep dreaming.</p>

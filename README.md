@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Albedoes!
+## Hi there 👋 I'm Dika Hadi Permana!
 
 Welcome to my GitHub profile — a space where I explore code, collaborate on cool projects, and constantly learn new things 🚀
 

@@ -1,9 +1,12 @@
 <h1 align="center">👋Hi there, I'm Dika Hadi Permana!</h1>
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=albedoes&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/albedoes" width="600" height="300" />
-  </a>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=albedoes&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/albedoes?pet-id=697347738725345075"
+    width="600"
+    height="120"
+  />
 </p>
 
 <p align="center">

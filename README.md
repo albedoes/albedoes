@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;Student+%7C+Web+Dev+%7C;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Dika+Permana.;%7C+Student+%7C+Web+Dev+%7C;Always+learning+new+tech!;Let%27s+build+cool+stuff+together+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -66,14 +66,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=albedoes&theme=tokyonight&hide_border=true&border_radius=12" width="96%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albedoes&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 

@@ -38,13 +38,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albedoes&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+💻;See+you+around+👋" alt="Typing SVG" />
 </p>

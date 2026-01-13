@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&pause=1000&color=FFFFFF&center=true&width=435&lines=Happy+coding!%F0%9F%92%BB+See+you+around%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=7000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Happy+coding!%F0%9F%92%BB+See+you+around%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>

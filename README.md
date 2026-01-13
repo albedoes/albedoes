@@ -38,6 +38,6 @@
 
 ---
 
-[<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+💻;See+you+around+👋" alt="Typing SVG" />
-</p>](https://readme-typing-svg.demolab.com/demo/?font=Montserrat&weight=500&size=16&color=FFFFFF&center=true&lines=Happy+coding!%F0%9F%92%BB+See+you+around%F0%9F%91%8B)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&pause=1000&color=FFFFFF&center=true&width=435&lines=Happy+coding!%F0%9F%92%BB+See+you+around%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
